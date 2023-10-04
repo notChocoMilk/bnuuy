@@ -2,7 +2,7 @@ import discord
 import random
 from discord.ext import commands
 
-bot_token = 'ENTER__BOT_TOKEN_HERE_PLEASE_<3'
+silli_token = 'ENTER__BOT_TOKEN_HERE_PLEASE_<3'
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -25,4 +25,4 @@ async def on_message(message):
     
     await bot.process_commands(message)
 
-bot.run(bot_token)
+bot.run(silli_token)
