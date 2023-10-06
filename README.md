@@ -1,6 +1,6 @@
 bnuuy is a discord bot that exists in time, truly a beautiful bot.
 --------------------------------------------------------------------------
-pip install discord.py
+I made a severe and continuous lapse in my judgement, and I don’t expect to be forgiven. I’m simply here to apologize for recommending discord.py. if you or a loved one has used bnuuy before, please run 'pip uninstall discord.py', and 'pip install py-cord' before it's too late.
 --------------------------------------------------------------------------
 i forgot how to make a license, so i'll just put it here
 -------------
